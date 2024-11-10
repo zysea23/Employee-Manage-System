@@ -1,6 +1,8 @@
 
 # Employee Management System
 
+![MainScreen](https://github.com/zysea23/Employee-Manage-System/raw/b4020d91d45161984cd941b4f20198f4bdcd7c40/ScreenShot/EmployeeManagementSystem.png)
+
 This is a simple Employee Management System project built with a **React** frontend and a **Node.js + Express** backend, using **MySQL** for data storage. The project includes basic CRUD operations, allowing users to add, view, and manage employee information.
 
 ## Features
@@ -89,9 +91,8 @@ This is a simple Employee Management System project built with a **React** front
 - **Add Employee**: Fill out the form and click "Add Employee" to add a new employee to the database.
 - **Show Employees**: Click "Show Employees" to retrieve and display the list of all employees from the database.
 
-## Screenshots
 
-![Form and Employee List](./screenshots/form_and_list.png)
+
 
 ## License
 
